@@ -25,7 +25,7 @@ Este projeto apresenta, de forma interativa e visualmente atraente, os **Doze De
 
 ## 🎨 Interface e Estilo
 
-* **Design da Página:** A interface se adapta somente a computadores (desktop-first).
+* **Design da Página:** A interface se adapta somente a computadores (desktop).
 * **Tema Mitológico:** Cores, tipografia e detalhes visuais inspirados na estética grega antiga.
 * **Leve e Claro:** Layout simples que prioriza leitura e navegação.
 * **Animações Suaves:** Pequenas transições nos cartões e botões para deixar a experiência mais agradável.

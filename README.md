@@ -45,4 +45,4 @@ Este projeto apresenta, de forma interativa e visualmente atraente, os **Doze De
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Hygo Sales Barbosa**, como estudo e apresentação sobre Mitologia Grega.
+Projeto desenvolvido por **Hygo Sales**, como apresentação sobre Mitologia Grega.

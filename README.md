@@ -12,7 +12,7 @@ Este projeto apresenta, de forma interativa e visualmente atraente, os **Doze De
 * Acesse o site e use a caixa de pesquisa para procurar o nome de um dos Doze Deuses do Olimpo.
 * Pressione **Enter** ou clique no botão **Buscar**. Isso irá mostrar o deus que você pesquisou. Se nada aparecer, confira se o nome digitado corresponde a um dos Deuses do Olimpo.
 
-###  Cartões dos Deuses
+📁 Cartões dos Deuses
 * **Resumo Rápido:** Cada deus conta com um texto curto explicando quem ele é na mitologia.
 * **Botão “Saiba mais”:** Leva diretamente para a página da Wikipédia com informações mais completas.
 * **Imagem Representativa:** Cada cartão conta com uma arte ou ícone que ajuda a identificar os deuses. As imagens e ícones foram geradas por **Inteligência Artificial (IA)**, conferindo um estilo único e moderno à representação das divindades.

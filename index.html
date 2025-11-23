@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mitologia Grega — Os 12 Deuses</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mitologia Grega — Os Doze Deuses do Olimpo</h1>
+    <p>Domínios, símbolos e histórias dos principais deuses gregos</p>
+  </header>
+  <div class="search-box">
+    <input id="searchInput" type="text" placeholder="Pesquise deuses do Olimpico " />
+    <button onclick="filterCards()" class="btn">Buscar</button>
+  </div>
+
+  <div class="container">
+    <p class="intro-text">Mergulhe nas lendas que moldaram o mundo antigo. Aqui você encontra histórias, símbolos, poderes e curiosidades sobre os doze deuses que governavam o Olimpo. Pesquise um nome e descubra como cada divindade influenciou a cultura, os mitos e o imaginário grego.</p>
+
+
+    <div class="grid" id="grid">
+      <!-- Cards dos deuses serão inseridos aqui via JavaScript -->
+    </div>
+  </div>
+
+  <!-- Modal Structure -->
+  <div id="god-modal" class="modal-overlay">
+    <div class="modal-content">
+      <span class="modal-close">&times;</span>
+      <div id="modal-body">
+        <!-- Conteúdo detalhado do deus será injetado aqui -->
+      </div>
+    </div>
+  </div>
+
+    <footer>
+        <ul class="footer-links">
+            <li><a href="https://github.com/Hygo069" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            <li><a href="https://www.alura.com.br/?srsltid=AfmBOoqOvU0HKg9WbAwVuJS-DcCXH642jMoyOm7S95b2dJK5KoGkPFgw" target="_blank" rel="noopener noreferrer">Alura</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+        </ul>
+        <p>&copy; 2025 - Todos os direitos reservados.</p>
+    </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Zeus",
+    "descricao": "Rei dos deuses e do Monte Olimpo, deus do céu, do tempo, do destino e do trovão. Filho dos titãs Cronos e Reia, liderou a guerra contra os titãs e estabeleceu a ordem divina.",
+    "link": "https://pt.wikipedia.org/wiki/Zeus",
+    "nome_romano": "Júpiter",
+    "simbolos": ["Raio", "Águia", "Touro", "Carvalho"],
+    "tags": [
+      "rei dos deuses", "céu", "trovão", "Júpiter", "Olimpo", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Hera",
+    "descricao": "Rainha dos deuses e deusa do casamento, das mulheres, da família e do parto. Irmã e esposa de Zeus, é conhecida por sua natureza majestosa e também por seu ciúme.",
+    "link": "https://pt.wikipedia.org/wiki/Hera",
+    "nome_romano": "Juno",
+    "simbolos": ["Pavão", "Romã", "Coroa", "Cetro"],
+    "tags": [
+      "rainha dos deuses", "casamento", "família", "Juno", "ciúme", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Poseidon",
+    "descricao": "Deus dos mares, dos terremotos, das tempestades e dos cavalos. Irmão de Zeus e Hades, é uma das divindades mais poderosas, controlando os oceanos com seu tridente.",
+    "link": "https://pt.wikipedia.org/wiki/Poseidon",
+    "nome_romano": "Netuno",
+    "simbolos": ["Tridente", "Cavalo", "Golfinho", "Peixe"],
+    "tags": [
+      "deus dos mares", "terremotos", "tempestades", "Netuno", "tridente", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Deméter",
+    "descricao": "Deusa da colheita, da agricultura, da fertilidade e das estações do ano. Sua história mais famosa envolve a busca por sua filha Perséfone, que foi raptada por Hades.",
+    "link": "https://pt.wikipedia.org/wiki/Dem%C3%A9ter",
+    "nome_romano": "Ceres",
+    "simbolos": ["Trigo", "Tocha", "Cornucópia", "Cegonha"],
+    "tags": [
+      "deusa da agricultura", "colheita", "estações", "Ceres", "Perséfone", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Atena",
+    "descricao": "Deusa da sabedoria, da guerra estratégica, da civilização, das artes e da justiça. Nasceu da cabeça de Zeus já adulta e com armadura completa. É a protetora da cidade de Atenas.",
+    "link": "https://pt.wikipedia.org/wiki/Atena",
+    "nome_romano": "Minerva",
+    "simbolos": ["Coruja", "Oliveira", "Elmo", "Lança"],
+    "tags": [
+      "deusa da sabedoria", "guerra estratégica", "justiça", "Minerva", "Atenas", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Apolo",
+    "descricao": "Deus da luz, do sol, da profecia, da música, da poesia e da medicina. Irmão gêmeo de Ártemis, era o condutor do Oráculo de Delfos e líder das Musas.",
+    "link": "https://pt.wikipedia.org/wiki/Apolo",
+    "nome_romano": "Febo",
+    "simbolos": ["Lira", "Arco e flecha", "Corvo", "Louro"],
+    "tags": [
+      "deus do sol", "música", "artes", "profecia", "Febo", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Ártemis",
+    "descricao": "Deusa da caça, da vida selvagem, da lua e da castidade. Irmã gêmea de Apolo, é uma caçadora habilidosa que vaga pelas florestas, protegendo os animais e a natureza.",
+    "link": "https://pt.wikipedia.org/wiki/%C3%81rtemis",
+    "nome_romano": "Diana",
+    "simbolos": ["Arco e flecha", "Lua crescente", "Cervo", "Cão de caça"],
+    "tags": [
+      "deusa da caça", "lua", "vida selvagem", "Diana", "castidade", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Ares",
+    "descricao": "Deus da guerra, da violência, da coragem e da fúria. Filho de Zeus e Hera, personifica a brutalidade e o caos das batalhas, em contraste com Atena, que rege a guerra estratégica.",
+    "link": "https://pt.wikipedia.org/wiki/Ares",
+    "nome_romano": "Marte",
+    "simbolos": ["Lança", "Elmo", "Escudo", "Javali"],
+    "tags": [
+      "deus da guerra", "violência", "batalha", "Marte", "fúria", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Afrodite",
+    "descricao": "Deusa do amor, da beleza, do desejo, do prazer e da fertilidade. Nascida da espuma do mar, sua beleza era irresistível para deuses e mortais. Casada com Hefesto, mas amante de Ares.",
+    "link": "https://pt.wikipedia.org/wiki/Afrodite",
+    "nome_romano": "Vênus",
+    "simbolos": ["Pomba", "Rosa", "Concha", "Espelho"],
+    "tags": [
+      "deusa do amor", "beleza", "desejo", "Vênus", "fertilidade", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Hefesto",
+    "descricao": "Deus do fogo, da metalurgia, dos ferreiros, dos artesãos e dos vulcões. Filho de Hera, era o mestre artesão dos deuses, forjando armas e objetos mágicos em sua oficina.",
+    "link": "https://pt.wikipedia.org/wiki/Hefesto",
+    "nome_romano": "Vulcano",
+    "simbolos": ["Martelo", "Bigorna", "Tenaz", "Fogo"],
+    "tags": [
+      "deus do fogo", "ferreiro", "metalurgia", "Vulcano", "artesão", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Hermes",
+    "descricao": "Mensageiro dos deuses, deus do comércio, dos viajantes, dos ladrões e da eloquência. Conhecido por sua velocidade e astúcia, guiava as almas dos mortos ao submundo.",
+    "link": "https://pt.wikipedia.org/wiki/Hermes",
+    "nome_romano": "Mercúrio",
+    "simbolos": ["Sandálias aladas", "Caduceu", "Elmo alado"],
+    "tags": [
+      "mensageiro dos deuses", "comércio", "velocidade", "Mercúrio", "viajantes", "mitologia grega"
+    ]
+  },
+  {
+    "nome": "Dionísio",
+    "descricao": "Deus do vinho, das festas, da loucura ritual, do teatro e do êxtase. Filho de Zeus e da mortal Sêmele, foi o último deus a ser aceito no Olimpo e representa a liberdade e a transgressão.",
+    "link": "https://pt.wikipedia.org/wiki/Dioniso",
+    "nome_romano": "Baco",
+    "simbolos": ["Videira", "Taça de vinho", "Tirso", "Pantera"],
+    "tags": [
+      "deus do vinho", "festas", "teatro", "Baco", "êxtase", "mitologia grega"
+    ]
+  }
+]
